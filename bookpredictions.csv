@@ -1,4 +1,4 @@
-isbn,rating_count,review_count,average_rating,five_star_ratings,four_star_ratings,three_star_ratings,two_star_ratings,one_star_ratings,number_of_pages,publisher,genre_and_votes,awards,NYT
-525559477,309418,42865,4.17,129296,117933,50006,9981,2202,288,Viking,Fantasy,Goodreads Best Fiction Award,1
-1250272041,570,321,3.56,124,200,148,78,25,352,St. Martin's Press,Nonfiction,No Awards,0
-593189698,1672,252,4.12,661,633,318,44,16,224,Riverhead Books,Self Help,No Awards,0
+isbn,author,rating_count,review_count,average_rating,five_star_ratings,four_star_ratings,three_star_ratings,two_star_ratings,one_star_ratings,number_of_pages,publisher,genre_and_votes,awards,NYT
+525559477,Matt Haig,309418,42865,4.17,129296,117933,50006,9981,2202,288,Viking,Fantasy,Goodreads Best Fiction Award,1
+1250272041,Phoebe Wynne,570,321,3.56,124,200,148,78,25,352,St. Martin's Press,Nonfiction,No Awards,0
+593189698,Anne Lamott,1672,252,4.12,661,633,318,44,16,224,Riverhead Books,Self Help,No Awards,0
